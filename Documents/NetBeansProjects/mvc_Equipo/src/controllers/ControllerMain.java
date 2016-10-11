@@ -1,3 +1,4 @@
+
 package controllers;
 
 import java.awt.event.ActionEvent;
@@ -46,7 +47,7 @@ public class ControllerMain implements ActionListener{
     }
      
     private void initView(){
-        this.viewMain.setTitle("Practica");
+        this.viewMain.setTitle("Figuras");
         this.viewMain.setLocationRelativeTo(null);
         this.viewMain.setVisible(true);
     }

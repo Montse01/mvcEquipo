@@ -35,7 +35,7 @@ public class ViewMain extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jMenu1.setText("Figuras");
+        jMenu1.setText("Menu");
 
         jmi_area.setText("Area");
         jmi_area.addActionListener(new java.awt.event.ActionListener() {
