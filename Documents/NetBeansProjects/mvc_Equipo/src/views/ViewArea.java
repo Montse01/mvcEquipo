@@ -49,7 +49,7 @@ public class ViewArea extends javax.swing.JPanel {
 
         jLabel2.setFont(new java.awt.Font("Rod", 0, 36)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel2.setText("Areas");
+        jLabel2.setText("Área");
 
         jl_num2.setFont(new java.awt.Font("Rod", 0, 18)); // NOI18N
         jl_num2.setForeground(new java.awt.Color(255, 255, 255));
